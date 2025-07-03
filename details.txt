@@ -1,0 +1,39 @@
+Smart Equipment Maintenance projesi için kullanabileceğiniz örnek özellikler ve aralıkları:
+
+Anlık Sensör Verileri
+
+Sıcaklık (°C): 0 – 100
+
+Titreşim (mm/s RMS): 0 – 50
+
+Akım (A): 0 – 100
+
+Basınç (bar): 0 – 10
+
+Devir Hızı (RPM): 0 – 5000
+
+Lag Özellikleri (t – 1, t – 5)
+
+Sıcaklık T–1: 0 – 100 °C
+
+Titreşim T–1: 0 – 50 mm/s
+
+Akım T–5: 0 – 100 A
+
+Hareketli Ortalama Özellikleri
+
+Son 1 saatlik sıcaklık ortalaması: 0 – 100 °C
+
+Son 10 dakikalık titreşim ortalaması: 0 – 50 mm/s
+
+Zaman Özellikleri
+
+Saat: 0 – 23
+
+Haftanın Günü: 1 – 7
+
+Durum/Kontrol Özellikleri
+
+Acil Durum Butonu Durumu: 0 (Kapalı) / 1 (Açık)
+
+Çalışma Modu: 0 (Otomatik) / 1 (Manuel)
